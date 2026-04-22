@@ -34,4 +34,51 @@
   <a href="mailto:ibabdulaziz2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
+# 👋 Hi, I'm Abdulaziz
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Problem+Solver;Always+Learning+🚀" />
+
+---
+
+## 🚀 About Me
+
+- 🎯 Focus: Backend Development
+- 🧠 Role: Python Developer
+- 🌱 Learning: Flask, Django, System Design
+- ⚡ Goal: Strong Backend Engineer
+
+---
+
+## 🧠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jjahongir2197&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahongir2197&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/jjahongir2197/jjahongir2197/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=jjahongir2197&color=00f7ff)
+
+---
+
+## 💡 Quote
+
+> "Code + Creativity = Power 🔥"
 
