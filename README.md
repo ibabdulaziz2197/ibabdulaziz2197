@@ -33,3 +33,75 @@
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ibabdulaziz2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
+
+
+# 🚀 About Me
+
+👋 Hi, I'm **Jahongir**  
+🎯 Role: Python Developer  
+🧠 Focus: Backend & Problem Solving  
+⚡ Status: Always Learning 🚀  
+
+---
+
+## 🧠 Skills
+
+- ⚡ Python (Advanced)
+- 🌐 Flask / Django
+- 🧱 Clean Architecture
+- 🔧 Git & GitHub
+- 💡 Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjahongir2197&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjahongir2197&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjahongir2197&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Consistent coding practice
+- 🚀 Built multiple Python projects
+- 💻 Active learner in backend development
+
+---
+
+## 🌱 Currently Learning
+
+- ⚡ Advanced Python
+- 🌐 Flask / Django
+- 🧱 System Design
+- 🎯 Clean Code Principles
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become Strong Backend Developer  
+- 💼 Work on Real World Projects  
+- 🌍 Build Useful Applications  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: @ibabdulaziz2197
+- 🐙 GitHub: 
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/jjahongir2197/jjahongir2197/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💡 Quote
+
+> "Code + Creativity = Power 🔥"
